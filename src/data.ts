@@ -1,5 +1,9 @@
 // src/data.ts
 
+import agendadorImg from '../assets/agendador-de-tarefas.jpg';
+import papelariaImg from '../assets/livraria.jpg';
+import portfolioImg from '../assets/portfolio-arquitetonico.jpg';
+
 export type Project = {
   id: number;
   title: string;
@@ -19,7 +23,7 @@ export const projectsData: Project[] = [
     title: 'Plataforma Web para Papelaria',
     description:
       'A proposta de busca otimiza o atendimento ao cliente, oferecendo uma navegação intuitiva por categorias de produtos, permitindo a seleção de itens e a finalização da compra via WhatsApp com um atendente. A plataforma também conta com um painel administrativo completo para gerenciamento de produtos, categorias e promoções.',
-    image: 'src/assets/livraria.jpg', 
+    image: papelariaImg, 
     liveUrl: 'https://github.com/patriciasanttos/projeto-livraria',
   },
   {
@@ -27,7 +31,7 @@ export const projectsData: Project[] = [
     title: 'Agendador de Tarefas',
     description:
       'Um sistema simples de lista de tarefas desenvolvida com React + TypeScript, hospedada no Vercel.',
-    image: 'src/assets/agendador-de-tarefas.jpg',
+    image: agendadorImg,
     repoUrl: 'https://github.com/Murilloteixeira9/Agendador-de-Tarefas',
     liveUrl: 'https://agendador-de-tarefas.vercel.app/',
   },
@@ -36,7 +40,7 @@ export const projectsData: Project[] = [
     title: 'Portfolio Arquitetônico',
     description:
       'Portfólio online de arquitetura mostrando projetos, serviços e informações de contato de forma moderna e responsiva.',
-    image: 'src/assets/portfolio-arquitetonico.jpg',
+    image: portfolioImg,
     liveUrl: 'https://dnc-arq-murillo.vercel.app/',
   },
   {
