@@ -1,0 +1,57 @@
+.header {
+  width: 100%;
+  padding: 1.5rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000306;
+  color: #FFFFFF;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.logo {
+  height: 40px;
+  margin-right: 2rem;
+  transform: scale(2.1);
+}
+
+.navigation {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.navLink {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navLink:hover {
+  color: #E5C379;
+}
+
+.social {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.socialLink {
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  display: flex;
+  align-items: center;
+}
+
+.socialLink svg {
+  font-size: 2rem;
+}
+
+.socialLink:hover {
+  color: #E5C379;
+}

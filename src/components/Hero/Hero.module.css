@@ -1,0 +1,48 @@
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2rem 2rem 4rem 8rem;
+  min-height: 70vh;
+  background-color: #12121A;
+}
+
+.content {
+  max-width: 650px;
+  text-align: left;
+}
+
+.content h1 {
+  font-size: 3.5rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+.content p {
+  font-size: 1.2rem;
+  color: #a9a9a9;
+  margin-bottom: 2.5rem;
+  line-height: 1.6;
+  padding-left: 3rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.8rem 1.3rem;
+  border-radius: 50px;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.3rem;
+  background-image: linear-gradient(to right, #8A2BE2, #00BFFF);
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-left: 3rem;
+}
+
+.button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(138, 43, 226, 0.4);
+}
