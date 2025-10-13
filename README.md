@@ -8,9 +8,13 @@ Este projeto foi desenvolvido com o objetivo de apresentar meus principais **pro
 
 ---
 
-## 🖼️ Preview do Projeto
-![Preview do Site](./public/images/preview.jpg)  
-*(Adicione aqui uma imagem de prévia do seu site, caso queira.)*
+## 🎯 Objetivo
+
+O objetivo deste portfólio é:
+
+- Demonstrar minhas habilidades em **desenvolvimento de interfaces modernas e responsivas**.  
+- Apresentar meus **projetos práticos**, destacando conhecimentos em React, TypeScript, Vite e Tailwind.  
+- Servir como **vitrine profissional**, mostrando meu estilo de desenvolvimento, organização de código e capacidade de deploy.
 
 ---
 
@@ -47,15 +51,15 @@ Este projeto foi desenvolvido com o objetivo de apresentar meus principais **pro
 
 2.Acesse a pasta do projeto:
 
-cd portfolio
+   cd portfolio
 
 3.Instale as dependências:
 
-npm install
+   npm install
 
 4.Rode o projeto:
 
-npm run dev
+   npm run dev
 
 👨‍💻 Autor:
 
