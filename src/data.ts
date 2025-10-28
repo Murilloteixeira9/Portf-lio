@@ -24,7 +24,14 @@ export const projectsData: Project[] = [
     liveUrl: 'https://github.com/patriciasanttos/projeto-livraria',
   },
   {
-    id: 2,
+    id:2,
+    title:'Gerador de Senhas',
+    description:'Projeto desenvolvido com o objetivo de gerar senhas seguras de forma rápida e personalizável. Permite definir tamanho da senha, quantidade de números e símbolos, além de copiar a senha com um clique. Totalmente responsivo, funciona em desktop, tablet e mobile.',
+    image: '/images/gerenciador-de-senhas.jpg',
+    liveUrl: 'https://gerador-de-senhas-uckc.vercel.app/',
+  },
+  {
+    id: 3,
     title: 'Agendador de Tarefas',
     description:
       'Um sistema simples de lista de tarefas desenvolvida com React + TypeScript, hospedada no Vercel.',
@@ -33,7 +40,7 @@ export const projectsData: Project[] = [
     liveUrl: 'https://agendador-de-tarefas.vercel.app/',
   },
   {
-    id: 3,
+    id: 4,
     title: 'Portfolio Arquitetônico',
     description:
       'Portfólio online de arquitetura mostrando projetos, serviços e informações de contato de forma moderna e responsiva.',
@@ -41,7 +48,7 @@ export const projectsData: Project[] = [
     liveUrl: 'https://dnc-arq-murillo.vercel.app/',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Tech News',
     description:
       'Um blog totalmente responsivo usando HTML e CSS puro, aplicando media queries para garantir que o layout se adapte de forma fluida a diferentes tamanhos de tela (desktop, tablet, mobile).',
