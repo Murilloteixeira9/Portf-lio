@@ -19,14 +19,14 @@ export const projectsData: Project[] = [
     id: 1,
     title: 'Plataforma Web para Papelaria',
     description:
-      'A proposta de busca otimiza o atendimento ao cliente, oferecendo uma navegação intuitiva por categorias de produtos, permitindo a seleção de itens e a finalização da compra via WhatsApp com um atendente. A plataforma também conta com um painel administrativo completo para gerenciamento de produtos, categorias e promoções.',
+      'Plataforma de busca que facilita o atendimento ao cliente, com navegação por categorias e finalização de compras.',
     image: '/images/livraria.jpg', 
-    liveUrl: 'https://github.com/patriciasanttos/projeto-livraria',
+    repoUrl: 'https://github.com/patriciasanttos/projeto-livraria',
   },
   {
     id:2,
     title:'Gerador de Senhas',
-    description:'Projeto desenvolvido com o objetivo de gerar senhas seguras de forma rápida e personalizável. Permite definir tamanho da senha, quantidade de números e símbolos, além de copiar a senha com um clique. Totalmente responsivo, funciona em desktop, tablet e mobile.',
+    description:'Projeto para gerar senhas seguras de forma rápida e personalizável, com opções de tamanho, números e símbolos.',
     image: '/images/gerenciador-de-senhas.jpg',
     liveUrl: 'https://gerador-de-senhas-uckc.vercel.app/',
   },
@@ -51,7 +51,7 @@ export const projectsData: Project[] = [
     id: 5,
     title: 'Tech News',
     description:
-      'Um blog totalmente responsivo usando HTML e CSS puro, aplicando media queries para garantir que o layout se adapte de forma fluida a diferentes tamanhos de tela (desktop, tablet, mobile).',
+      'Um blog totalmente responsivo com HTML e CSS puro, utiliza-se media queries para adaptar o layout a desktop, tablet e mobile.',
     image: '/images/tech-news.jpg',
     liveUrl: 'https://blog-responsivo777.netlify.app/',
   },
@@ -94,3 +94,4 @@ export const timelineData: TimelineEvent[] = [
     "description": "Atuação contínua como Front-end Engineer, aprimorando conhecimentos em interfaces modernas, APIs, automações e práticas de desenvolvimento ágil."
   }
 ]
+

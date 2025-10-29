@@ -2,7 +2,7 @@ import styles from './Hero.module.css';
 
 export function Hero() {
 
-  const title = `Olá, eu sou o Murillo. Desenvolvedor Full-Stack.`;
+  const title = `Olá, eu sou o Murillo. Front-end Engineer.`;
 
   const paragraph = `
     Ao longo da minha trajetória, desenvolvi projetos que envolvem desde interfaces modernas em React até integrações com APIs e bancos de dados MySQL, sempre com foco em boas práticas de código e desempenho.
