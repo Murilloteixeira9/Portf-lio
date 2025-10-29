@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio!
 Este projeto foi desenvolvido com o objetivo de apresentar meus principais **projetos, experiências e habilidades como desenvolvedor Front-End**.
 
 🔗 **Acesse o site online:**  
-👉 https://rid-216035-desafio06.vercel.app/
+👉https://myport-folio84.vercel.app/
 
 ---
 
