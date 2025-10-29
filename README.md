@@ -1,22 +1,67 @@
-Este portfólio foi desenvolvido com React, TypeScript e Vite, com o objetivo de reunir meus principais projetos e experiências na área de desenvolvimento front-end.
-O layout foi projetado para ser totalmente responsivo, com uma interface limpa, animações suaves e integração com meus perfis do GitHub e LinkedIn.
+# 🌐 Portfólio Pessoal - Murillo Teixeira
 
-🚀 Tecnologias utilizadas:
+Bem-vindo ao meu portfólio!  
+Este projeto foi desenvolvido com o objetivo de apresentar meus principais **projetos, experiências e habilidades como desenvolvedor Front-End**.
 
-React + TypeScript
+🔗 **Acesse o site online:**  
+👉 https://rid-216035-desafio06.vercel.app/
 
-CSS Modules / Tailwind
+---
 
-Vite
+## 🎯 Objetivo
 
-React Icons
+O objetivo deste portfólio é:
 
-💡 Destaques:
+- Demonstrar minhas habilidades em **desenvolvimento de interfaces modernas e responsivas**.  
+- Apresentar meus **projetos práticos**, destacando conhecimentos em React, TypeScript, Vite e Tailwind.  
+- Servir como **vitrine profissional**, mostrando meu estilo de desenvolvimento, organização de código e capacidade de deploy.
 
-Linha do tempo interativa da trajetória profissional
+---
 
-Seção de projetos com cards e links diretos para GitHub e deploy
+## 🧠 Tecnologias Utilizadas
+- **React.js** ⚛️  
+- **TypeScript** 💡  
+- **Vite** ⚡  
+- **HTML5 & CSS3** 🎨  
+- **Tailwind CSS** 💅  
+- **Deploy:** [Vercel](https://vercel.com)
 
-Responsividade otimizada para diferentes dispositivos
+---
 
-🌐 Deploy: https://rid-216035-desafio06.vercel.app/
+## 📁 Estrutura do Projeto
+📦 portfolio
+┣ 📂 public
+┣ 📂 src
+┃ ┣ 📂 assets
+┃ ┣ 📂 components
+┃ ┣ 📂 pages
+┃ ┗ 📜 data.ts
+┣ 📜 package.json
+┗ 📜 README.md
+
+
+---
+
+## 🚀 Como Executar o Projeto Localmente
+
+1. Clone este repositório:
+   ```bash
+
+   git clone https://github.com/Murilloteixeira9/-RID216035_Desafio06.git
+
+2.Acesse a pasta do projeto:
+
+   cd portfolio
+
+3.Instale as dependências:
+
+   npm install
+
+4.Rode o projeto:
+
+   npm run dev
+
+👨‍💻 Autor:
+
+Murillo Teixeira
+
